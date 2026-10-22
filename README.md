@@ -1,4 +1,5 @@
 # Pathomorphology-of-latent-space
+## Abstract
 Unusual outputs from generative artificial intelligence can acquire recognizable identities and 
 circulate as persistent cultural figures. This article proposes the pathomorphology of latent 
 space, a comparative analytic framework examining how anomalous visual generations, 
@@ -22,9 +23,10 @@ the same figure), and cultural persistence (continued circulation of a named ide
 evidence for one does not independently establish the others.
 
 
-#Keywords:
+## Keywords:
 generative AI, anomalous outputs, mechanistic interpretability, Jungian 
 interpretation, algorithmic folklore, digital occultism
 
+## Citation
 If you want to cite this work please use:
 https://doi.org/10.5281/zenodo.23510591
