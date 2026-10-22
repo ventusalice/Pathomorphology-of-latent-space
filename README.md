@@ -27,6 +27,11 @@ evidence for one does not independently establish the others.
 generative AI, anomalous outputs, mechanistic interpretability, Jungian 
 interpretation, algorithmic folklore, digital occultism
 
+## Authors:
+Igor S. Limaev*, Alexey G. Zolkin, Irina Sorochanu, Daria V. Gefenider
+ 
+Corresponding author e-mail: ig.limaev@gmail.com
+
 ## Citation
 If you want to cite this work please use:
 https://doi.org/10.5281/zenodo.23510591
