@@ -19,8 +19,11 @@ cultural recirculation, and formulate falsifiable research questions to test the
 central distinction separates generative persistence (recurrence of specified output features 
 under defined conditions), perceptual continuity (observers’ recognition of different outputs as 
 the same figure), and cultural persistence (continued circulation of a named identity), where 
-evidence for one does not independently establish the others. 2
-Keywords: generative AI, anomalous outputs, mechanistic interpretability, Jungian 
+evidence for one does not independently establish the others.
+
+
+#Keywords:
+generative AI, anomalous outputs, mechanistic interpretability, Jungian 
 interpretation, algorithmic folklore, digital occultism
 
 If you want to cite this work please use:
