@@ -34,4 +34,4 @@ Corresponding author e-mail: ig.limaev@gmail.com
 
 ## Citation
 If you want to cite this work please use:
-https://doi.org/10.5281/zenodo.23510591
+[https://doi.org/10.5281/zenodo.23510590]
