@@ -1,5 +1,6 @@
 cff-version: 1.2.0
-message: "If you use this framework or protocol, please cite it as below."
+
+message: "If you use this framework or protocol, please cite the article below."
 
 authors:
   - family-names: "Limaev"
@@ -16,3 +17,18 @@ version: "1.0.0"
 doi: "10.5281/zenodo.23510590"
 date-released: 2026-10-21
 url: "https://github.com/ventusalice/Pathomorphology-of-latent-space"
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Limaev"
+      given-names: "Igor S."
+    - family-names: "Zolkin"
+      given-names: "Alexey G."
+    - family-names: "Sorochanu"
+      given-names: "Irina"
+    - family-names: "Gefenider"
+      given-names: "Daria V."
+  title: "Pathomorphology of Latent Space: An Analytic Framework for Generative AI Anomalies, Jungian Projection, and Digital Occultism"
+  year: 2026
+  doi: "10.5281/zenodo.23510590"
